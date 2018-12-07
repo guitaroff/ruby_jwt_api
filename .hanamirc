@@ -1,0 +1,3 @@
+project=ruby_jwt_api
+test=rspec
+template=erb
